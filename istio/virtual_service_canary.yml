@@ -26,5 +26,5 @@ spec:
     - destination:
         host: front-end.production.svc.cluster.local
         subset: v3
-      weight: 34 #v33
+      weight: 34 #v3
       
